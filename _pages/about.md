@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Professor, <a href='https://www3.chosun.ac.kr/eng/1887/subview.do'>Department of Computer Engineering</a>, Chosun University.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>555 Pilmun-daero, 309</p>
+    <p>123 Dong-gu, Seoseok-dong</p>
+    <p>Gwangju, South Korea</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Jeong-A Lee received a B.S. degree (Hons.) in computer engineering from Seoul National University, Seoul, South Korea, in 1982, an M.S. degree in computer science from Indiana University Bloomington, Bloomington, IN, USA, in 1985, and a Ph.D. degree in computer science from the University of California at Los Angeles, Los Angeles, CA, USA, in 1990, From 1990 to 1995, she was an Assistant Professor with the Department of Electrical and Computer Engineering, University of Houston, Houston, TX, USA. Since 1995, she has been with Chosun University, Gwangju, South Korea. From 2008 to 2009, she served as a Program Director of the ECE Division, at the National Research Foundation of Korea. Dr. Lee is a member of the National Academy of Engineering in South Korea. She has authored or co-authored more than 100 reviewed journal and conference papers. Her current interests include high-performance computer architectures, memory architecture, approximate computing, self-aware computing, and reliable computing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
