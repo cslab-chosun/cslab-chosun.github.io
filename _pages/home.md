@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
 subtitle: Professor, <a href='https://www3.chosun.ac.kr/eng/1887/subview.do'>Department of Computer Engineering</a>, <a href='https://chosun.kr'>Chosun University</a>.
 
