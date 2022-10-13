@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Kim Kim2
+description: Natural Language Processing (NLP)
+img: assets/img/prof_pic_1.jpg
 importance: 4
-category: fun
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.

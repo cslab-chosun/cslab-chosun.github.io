@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Sina Sina3
+description: Computer Achitecture
+img: assets/img/prof_pic_1.jpg
 importance: 2
-category: work
+category: Postdoctoral Researchers
 ---
 
 Every project has a beautiful feature showcase page.

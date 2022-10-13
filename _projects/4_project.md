@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Dr. Hennessy
+description: Micro-architecture
+img: assets/img/prof_pic_1.jpg
 importance: 3
-category: fun
+category: PhD Students
 ---
 
 Every project has a beautiful feature showcase page.

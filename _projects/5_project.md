@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: David Patterson
+description: RISC IV Processor Designer
+img: assets/img/prof_pic_1.jpg
 importance: 3
-category: fun
+category: PhD Students
 ---
 
 Every project has a beautiful feature showcase page.
