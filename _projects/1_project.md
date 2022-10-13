@@ -4,7 +4,7 @@ title: Sina Sina2
 description: Computer Security
 img: assets/img/prof_pic_1.jpg
 importance: 1
-category: work
+category: Postdoctoral Researchers
 ---
 
 Every project has a beautiful feature showcase page.
