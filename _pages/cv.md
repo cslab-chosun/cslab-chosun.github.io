@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /research/
-title: research interests
+title: research
 nav: true
 nav_order: 4
 ---
+
+# Research Interests
 
 ## Reliable Computing
 Reliable computing has been one of the oldest topics of research interest at CSlab. Our core contributions are in the fields of fault tolerance and concurrent error detection. We have been developing fault-mitigation strategies with a focus on fault-masking and exploring the latest paradigms in online error detection. Architectures investigated include digital logic gates, field-programmable gate arrays (FPGA), and ternary content-addressable (TCAM) memories. Reliable computing is still an active area of research at CSlab and we plan to continue contributing to the state-of-the-art.
