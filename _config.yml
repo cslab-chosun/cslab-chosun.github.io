@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jeong-A Lee
+first_name: Jeong-A
 middle_name: 
 last_name: Lee
-email: you@example.com
+email: jalee@chosun.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  
 keywords: Self-Aware Computing, Configurable Computing, Approximate Computing, Fast Arithmetic Unit Design  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -92,7 +92,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  CSLab is affiliated with the School of Computer Engineering at Chosun University.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
