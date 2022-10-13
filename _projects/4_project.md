@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Hennessy
+title: Dr. John Hennessy
 description: Micro-architecture
 img: assets/img/prof_pic_1.jpg
 importance: 3
