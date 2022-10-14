@@ -12,6 +12,7 @@ Here are the list of research interests in the computer systems lab (CSLab).
 ## Reliable Computing
 
 ![image info](../assets/img/reliable.jpg)
+<img src="../assets/img/reliable.jpg" alt="drawing" width="800" height ="550"/>
 
 Reliable computing has been one of the oldest topics of research interest at CSlab. Our core contributions are in the fields of fault tolerance and concurrent error detection. We have been developing fault-mitigation strategies with a focus on fault-masking and exploring the latest paradigms in online error detection. Architectures investigated include digital logic gates, field-programmable gate arrays (FPGA), and ternary content-addressable (TCAM) memories. Reliable computing is still an active area of research at CSlab and we plan to continue contributing to the state-of-the-art.
 
@@ -36,6 +37,7 @@ At the current time, there are several fundamental changes in the way computing 
 ## Genetic Circuit Modeling
 
 ![image info](../assets/img/Genetic.jpg)
+<img src="../assets/img/Genetic.jpg" alt="drawing" width="800" height ="550"/>
 
 Genetic Circuit Modeling is a new interdisciplinary area that involves the application of engineering principles to biology. It aims at the (re-)design and fabrication of biological components and systems that do not already exist in the natural world. Synthetic biology combines chemical synthesis of DNA with growing knowledge of genomics to enable researchers to quickly manufacture catalogued DNA sequences and assemble them into new genomes.
 
