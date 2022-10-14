@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kim Kim2
+title: Test Test6
 description: Natural Language Processing (NLP)
 img: assets/img/prof_pic_1.jpg
 importance: 4
