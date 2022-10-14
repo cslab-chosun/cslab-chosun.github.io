@@ -12,7 +12,6 @@ Here are the list of research interests in the computer systems lab (CSLab).
 ## Reliable Computing
 
 ![image info](../assets/img/reliable.jpg)
-<img src="../assets/img/reliable.jpg" alt="drawing" width="800" height ="550"/>
 
 Reliable computing has been one of the oldest topics of research interest at CSlab. Our core contributions are in the fields of fault tolerance and concurrent error detection. We have been developing fault-mitigation strategies with a focus on fault-masking and exploring the latest paradigms in online error detection. Architectures investigated include digital logic gates, field-programmable gate arrays (FPGA), and ternary content-addressable (TCAM) memories. Reliable computing is still an active area of research at CSlab and we plan to continue contributing to the state-of-the-art.
 
@@ -30,14 +29,13 @@ Online Arithmetic is an unconventional form of computation which operates in a l
 
 ## Self-Aware Computing
 
-![image info](../assets/img/Self.jpg)
+<img src="../assets/img/Self.jpg" alt="drawing" width="790" height ="540"/>
 
 At the current time, there are several fundamental changes in the way computing systems are being developed, deployed and used. They are becoming increasingly large, heterogeneous, uncertain, dynamic and decentralised. These complexities lead to behaviours during run time that are difficult to understand or predict. One vision for how to rise to this challenge is to endow computing systems with increased self-awareness, in order to enable advanced autonomous adaptive behaviour. A desire for self-awareness has arisen in a variety of areas of computer science and engineering over the last two decades, and more recently a more fundamental understanding of what self-awareness concepts might mean for the design and operation of computing systems has been developed.
 
 ## Genetic Circuit Modeling
 
 ![image info](../assets/img/Genetic.jpg)
-<img src="../assets/img/Genetic.jpg" alt="drawing" width="800" height ="550"/>
 
 Genetic Circuit Modeling is a new interdisciplinary area that involves the application of engineering principles to biology. It aims at the (re-)design and fabrication of biological components and systems that do not already exist in the natural world. Synthetic biology combines chemical synthesis of DNA with growing knowledge of genomics to enable researchers to quickly manufacture catalogued DNA sequences and assemble them into new genomes.
 
