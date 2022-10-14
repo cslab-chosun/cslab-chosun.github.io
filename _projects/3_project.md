@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prof. Einstein
+title: Test Test3
 description: Artificial Intelligence (AI)
 img: assets/img/prof_pic_1.jpg
 redirect: https://unsplash.com

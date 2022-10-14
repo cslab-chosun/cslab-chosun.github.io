@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sina Sina3
+title: Test Test1
 description: Computer Achitecture
 img: assets/img/prof_pic_1.jpg
 importance: 2

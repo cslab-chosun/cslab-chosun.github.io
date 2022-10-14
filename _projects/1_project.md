@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sina Sina2
+title: Test Test2
 description: Computer Security
 img: assets/img/prof_pic_1.jpg
 importance: 1
