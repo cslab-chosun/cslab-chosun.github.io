@@ -29,7 +29,7 @@ Online Arithmetic is an unconventional form of computation which operates in a l
 
 ## Self-Aware Computing
 
-<img src="../assets/img/Self.jpg" alt="drawing" width="35%" height ="20%"/>
+<img src="../assets/img/Self.jpg" alt="drawing" width="80%" height ="60%"/>
 
 At the current time, there are several fundamental changes in the way computing systems are being developed, deployed and used. They are becoming increasingly large, heterogeneous, uncertain, dynamic and decentralised. These complexities lead to behaviours during run time that are difficult to understand or predict. One vision for how to rise to this challenge is to endow computing systems with increased self-awareness, in order to enable advanced autonomous adaptive behaviour. A desire for self-awareness has arisen in a variety of areas of computer science and engineering over the last two decades, and more recently a more fundamental understanding of what self-awareness concepts might mean for the design and operation of computing systems has been developed.
 
