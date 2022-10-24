@@ -4,7 +4,7 @@ title: Mohammad K Fallah
 description: High Performance Computing
 img: assets/img/members/fallah.jpeg
 importance: 3
-category: PhD Students
+category: Postdoctoral Researchers
 ---
 
 Every project has a beautiful feature showcase page.

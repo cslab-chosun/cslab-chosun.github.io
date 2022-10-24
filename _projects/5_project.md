@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Test5
+title: Muhammad Akmal Shafique
 description: Reliability, Fault tolerance, Reconfigurable Architecture
 img: assets/img/members/akmal.jpeg
 redirect: https://sites.google.com/view/mashafique

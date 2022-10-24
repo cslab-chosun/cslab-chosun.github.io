@@ -2,7 +2,7 @@
 layout: page
 title: Iraj Moghaddasi
 description: Computer Architecture, Reliable and High-performance Computing
-img: assets/img/members/moghaddasi.jpg
+img: assets/img/members/moghaddasi.jpeg
 importance: 4
 category: Postdoctoral Researchers
 ---

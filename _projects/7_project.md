@@ -3,6 +3,7 @@ layout: page
 title: M. Hosein Gholamrezaei
 description: Computer Architecture, AI Hardware Accelerators, Embedded Systems
 img: assets/img/members/gholamrezaei.jpg
+redirect: https://mhogh.github.io/
 importance: 4
 category: Master Students
 ---

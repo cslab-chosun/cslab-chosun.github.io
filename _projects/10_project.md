@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sina Karvandi
-description: Hypervisors, System Security
-img: assets/img/members/karvandi.jpg
-redirect: https://rayanfam.com
+title: Malik Zohaib Nisar
+description: 3D Printing, Rapid Prototype, Machine Learning
+img: assets/img/members/zohaib.png
+redirect: https://sites.google.com/view/mznisar/home
 importance: 4
-category: Master Students
+category: PhD Students
 ---
 
 Every project has a beautiful feature showcase page.

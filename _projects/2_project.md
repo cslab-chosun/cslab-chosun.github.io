@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Saeid Gorgin
+title: Saeid Gorgin
 description: Computer Arithmetic
 img: assets/img/members/gorgin.jpg
 importance: 2
