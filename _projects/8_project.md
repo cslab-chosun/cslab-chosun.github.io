@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mohammad Sina Karvandi
-description: Operating Systems, Hypervisors, System Security
+description: Operating Systems, Hypervisors, System Security, Debuggers
 img: assets/img/members/karvandi.jpg
 redirect: https://rayanfam.com
 importance: 4
