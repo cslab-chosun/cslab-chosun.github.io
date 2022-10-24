@@ -4,6 +4,7 @@ title: Mohammad K Fallah
 description: High Performance Computing
 img: assets/img/members/fallah.jpeg
 importance: 3
+redirect: https://scholar.google.com/citations?user=adRdD5QAAAAJ&hl=en
 category: Postdoctoral Researchers
 ---
 

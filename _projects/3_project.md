@@ -4,6 +4,7 @@ title: Muhammad Usman
 description: Computer Arithmetic, Hardware Acceleration For Deep Learning
 img: assets/img/members/usman.jpeg
 importance: 3
+redirect: https://scholar.google.com/citations?hl=en&user=38xhctQAAAAJ
 category: Postdoctoral Researchers
 ---
 

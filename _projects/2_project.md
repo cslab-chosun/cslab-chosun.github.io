@@ -3,6 +3,7 @@ layout: page
 title: Saeid Gorgin
 description: Computer Arithmetic
 img: assets/img/members/gorgin.jpg
+redirect: https://scholar.google.com/citations?user=SbgT7HcAAAAJ&hl=en
 importance: 2
 category: Prof. For Brain Pool Program
 ---

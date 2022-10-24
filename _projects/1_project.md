@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Dr. Ghassem Jaberipur
+title: Ghassem Jaberipur
 description: Computer Arithmetic
 img: assets/img/members/jaberipour.png
+redirect: https://scholar.google.com/citations?user=q9EkcAQAAAAJ&hl=en
 importance: 1
 category: Prof. For Brain Pool Program
 ---
