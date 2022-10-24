@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Test Test4
-description: Micro-architecture
-img: assets/img/prof_pic_1.jpg
+title: Mohammad K Fallah
+description: High Performance Computing
+img: assets/img/members/fallah.jpeg
 importance: 3
 category: PhD Students
 ---

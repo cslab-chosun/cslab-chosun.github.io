@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Muhammad Usman
-description: Computer Arithmetic, Hardware Acceleration For Deep Learning
-img: assets/img/members/usman.jpeg
-importance: 3
-category: Postdoctoral Researchers
+title: Mohammad Reza Najafi
+description: Computer Vision
+img: assets/img/members/najafi.jpg
+importance: 4
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.

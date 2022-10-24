@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Muhammad Usman
-description: Computer Arithmetic, Hardware Acceleration For Deep Learning
-img: assets/img/members/usman.jpeg
-importance: 3
-category: Postdoctoral Researchers
+title: M. Hosein Gholamrezaei
+description: Computer Architecture, AI Hardware Accelerators, Embedded Systems
+img: assets/img/members/gholamrezaei.jpg
+importance: 4
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.

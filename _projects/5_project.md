@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Test Test5
-description: RISC IV Processor Designer
-img: assets/img/prof_pic_1.jpg
+description: Reliability, Fault tolerance, Reconfigurable Architecture
+img: assets/img/members/akmal.jpeg
+redirect: https://sites.google.com/view/mashafique
 importance: 3
 category: PhD Students
 ---

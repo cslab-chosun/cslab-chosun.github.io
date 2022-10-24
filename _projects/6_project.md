@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Test Test6
-description: Natural Language Processing (NLP)
-img: assets/img/prof_pic_1.jpg
+title: Iraj Moghaddasi
+description: Computer Architecture, Reliable and High-performance Computing
+img: assets/img/members/moghaddasi.jpg
 importance: 4
-category: Master Students
+category: Postdoctoral Researchers
 ---
 
 Every project has a beautiful feature showcase page.

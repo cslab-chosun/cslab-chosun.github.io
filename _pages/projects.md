@@ -5,7 +5,7 @@ permalink: /members/
 description: Computer Systems (CSLab) members.
 nav: true
 nav_order: 2
-display_categories: [Postdoctoral Researchers, PhD Students, Master Students, Undergraduate Students]
+display_categories: [Prof. For Brain Pool Program, Postdoctoral Researchers, PhD Students, Master Students, Undergraduate Students]
 horizontal: false
 ---
 

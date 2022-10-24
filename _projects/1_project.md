@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Test Test2
-description: Computer Security
-img: assets/img/prof_pic_1.jpg
+title: Dr. Ghassem Jaberipur
+description: Computer Arithmetic
+img: assets/img/members/jaberipour.png
 importance: 1
-category: Postdoctoral Researchers
+category: Prof. For Brain Pool Program
 ---
 
 Every project has a beautiful feature showcase page.

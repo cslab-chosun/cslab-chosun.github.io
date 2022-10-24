@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Test Test1
-description: Computer Achitecture
-img: assets/img/prof_pic_1.jpg
+title: Dr. Saeid Gorgin
+description: Computer Arithmetic
+img: assets/img/members/gorgin.jpg
 importance: 2
-category: Postdoctoral Researchers
+category: Prof. For Brain Pool Program
 ---
 
 Every project has a beautiful feature showcase page.
