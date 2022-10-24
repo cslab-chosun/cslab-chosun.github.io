@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mohammad Reza Najafi
-description: Computer Vision
+description: Computer Vision, Embedded system , Low Power Computer Vision
 img: assets/img/members/najafi.jpg
 importance: 4
 category: Master Students

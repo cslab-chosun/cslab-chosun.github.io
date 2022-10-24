@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sina Karvandi
+title: Mohammad Sina Karvandi
 description: Hypervisors, System Security
 img: assets/img/members/karvandi.jpg
 redirect: https://rayanfam.com
