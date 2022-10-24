@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mohammad K Fallah
-description: High Performance Computing
+description: High Performance Computing, Hardware/Software Co-design, Compiler and Synthesis, Data Structure and Algorithm
 img: assets/img/members/fallah.jpeg
 importance: 3
 redirect: https://scholar.google.com/citations?user=adRdD5QAAAAJ&hl=en
