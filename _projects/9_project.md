@@ -3,7 +3,7 @@ layout: page
 title: Mohammad Reza Najafi
 description: Computer Vision, Embedded system , Low Power Computer Vision
 img: assets/img/members/najafi.jpg
-redirect: 
+redirect: https://cslab-chosun.github.io/members
 importance: 4
 category: Master Students
 ---
