@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MohammadHosein Gholamrezaei
+title: Mohammad Hosein Gholamrezaei
 description: Computer Architecture, AI Hardware Accelerators, Embedded Systems
 img: assets/img/members/gholamrezaei.jpg
 redirect: https://mhogh.github.io/
