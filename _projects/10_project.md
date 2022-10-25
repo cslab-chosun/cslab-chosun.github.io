@@ -2,7 +2,7 @@
 layout: page
 title: Malik Zohaib Nisar
 description: 3D Printing, Rapid Prototype, Machine Learning and Computer Arithmetic
-img: assets/img/members/zohaib.png
+img: assets/img/members/zohaib.jpg
 redirect: https://sites.google.com/view/mznisar/home
 importance: 4
 category: PhD Students
