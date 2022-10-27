@@ -28,9 +28,9 @@
 - title: Employment
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title: Professor
       institution: Chosun University, GwangJu City, Korea
-      year: October 2001 - Present
+      year: Oct 2001 - Present
       description:
         - Department of Computer Engineering
 
@@ -59,6 +59,18 @@
       description:
         - Department of Electrical and Computer Engineering        
 
+- title: Honors and Fellowships
+  type: time_table
+  contents:
+    - year: Aug 1983 - Aug 1988
+      items: 
+        - Korea Government Scholarship to Study Abroad 
+    - year: 2011
+      items: 
+        - Top Woman Engineer of 2011 selected by Women in Science, Engineering and Technology, Korea (WiTeck Association) 
+    - year: 2015
+      items: 
+        - Winner of President's Awards for Research Excellence among faculty members of Chosun University
 
 - title: Open Source Projects
   type: time_table
@@ -67,16 +79,6 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
