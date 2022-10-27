@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Jeong-A Lee
-    - name: Date of Birth
-      value: 14th March 2000
+    - name: Position
+      value: Professor (Department of Computer Engineering)
     - name: Languages
       value: English, Korean
 
@@ -12,15 +12,12 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Department of Computer Science, UCLA, Los Angeles, CA, U.S.A.
+      year: 1990
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title:  Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Redundant CORDIC: Theory and its Application to Matrix Computations
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
