@@ -17,7 +17,7 @@
       description:
         - title:  Thesis
           contents:
-            - Redundant CORDIC: Theory and its Application to Matrix Computations
+            - "Redundant CORDIC: Theory and its Application to Matrix Computations"
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
