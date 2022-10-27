@@ -11,19 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Computer Science
       institution: Department of Computer Science, UCLA, Los Angeles, CA, U.S.A.
       year: 1990
       description:
         - title:  Thesis
           contents:
             - "Redundant CORDIC: Theory and its Application to Matrix Computations"
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: M.S. in Computer Science
+      institution: Department of Computer Science, Indiana University, Bloomington, IN, U.S.A.
+      year: 1985
+    - title: B.S. in Computer Engineering
+      institution: Department of Computer Engineering, Seoul National University, Seoul, Korea
+      year: 1982
 
 - title: Experience
   type: time_table
