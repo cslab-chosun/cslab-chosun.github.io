@@ -72,27 +72,27 @@
       items: 
         - Winner of President's Awards for Research Excellence among faculty members of Chosun University
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Computer Arithmetic Algorithms and Implementations, CORDIC arithmetic, High Performance Computing, Configurable Computing, Fault-tolerant Computing
+
+
+- title: Professional Appointments
+  type: time_table
+  contents:
+    - title: Member, National Academy of Engineering, Korea
+      year: 2011 - Present
+      description: (정회원 2019)
+
+    - title: National Contact Point in IT for Korea to facilitate Korea-EU collaborations
+      year: 2008 - 2009
+
+    - title: Founding Chair of IEEE Women in Engineering, Korea
+      year: 2006 - 2010
+
+    - title: IEEE Senior Member
+      year: 2001 - Present
+
+    - title: Adjunct Professor, Department of Information and Communications, GIST
+      year: 1995 - 1998
