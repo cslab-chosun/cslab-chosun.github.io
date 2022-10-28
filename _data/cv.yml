@@ -96,3 +96,53 @@
 
     - title: Adjunct Professor, Department of Information and Communications, GIST
       year: 1995 - 1998
+
+
+- title: Visiting Scientist / Professor Positions
+  type: time_table
+  contents:
+    - title: Visiting Professor, Aalto University, Finland 
+      year: Jan 2017 - Jan 2018
+      description: to explore Computer Software Education Research
+
+    - title: Visiting Professor, Far Eastern Federal University to discuss on application of IT between Chosun University and Far Eastern Federal University, Vladivostok, Russia
+      year: Apr 2015
+
+    - title: Visiting Professor, The Center for Data Analysis at Georgia Institute of Technology, Atlanta, U.S.A.
+      year: Aug 2013
+      description: to explore potential research collaboration on wireless biomedical sensor networks and data analysis systems with the director, Professor H Park, Center for Data Analysis
+
+    - title: Visiting Scientist, The Centre Technologic de Telecommunicacions de Catalunya (CCTC), Barcelona, Spain
+      year: Jul 2011
+      description: to explore research collaboration on ICT for Ageing Well technologies with Prof. Verikoukis
+
+    - title: Visiting Scientist, The Biomedical Applications Group, Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Barcelona Spain 
+      year: Jul 2011
+      description: to discuss research collaboration on ICT for Ageing Well technologieswith Project Coordinator, Professor Jordi Aguiló
+
+    - title: Visiting Scientist, Technology Research for Independent Living (TRIL) Centre, Dublin, Ireland
+      year: Jul 2011
+      description: to discuss research collaboration on ICT for Ageing Well technologies with Dr. Brian Caulifield
+
+    - title: Visiting Professor, Department of Computer Science, UCLA, U.S.A
+      year: Dec 2004 - Apr 2005
+      description: Worked on Configurable Arithmetic and Design with Professor Milos Ercegovac
+
+    - title: Visiting Professor, Department of Computer Science, Computer System Lab, Stanford University, U.S.A.
+      year: Aug 2000 - Feb 2002
+      description: Worked on Adaptive Arithmetic and CORDIC with Professor Flynn
+
+    - title: Visiting Researcher, Department of Electrical and Computer Engineering, UC, Irvine, U.S.A
+      year: Jul 1999 - Aug 1999
+      description: Worked on Fast CORDIC algorithms with Professor Lang
+
+    - title: Visiting Professor (Guest Lecturer), TU, Delft, The Netherlands
+      year: Dec 1998 - Feb 1999
+      description: Worked on Design Space Exploration Methodology with Professor Deprettere
+
+    - title: Visiting Researcher, TU, Delft, The Netherlands
+      year: Dec 1997 - Jan 1998
+      description: Worked on Fast Rotation based CORDIC with Professor Deprettere
+
+    - title: Visiting Scientist, Super Conducting Super Collider Lab, Dallas, Texas, U.S.A.
+      year: Jun 1993 - Feb 1994
