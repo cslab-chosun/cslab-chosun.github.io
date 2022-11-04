@@ -10,7 +10,7 @@ email: jalee@chosun.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chosun University CSLab Website
 footer_text: >
-  | <a href="https://chosun.ac.kr" target="_blank">Chosun University</a> | Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme | <a href="mailto:jalee@chosun.ac.kr" target="_blank">jalee(at)chosun.ac.kr</a> | +82-62-230-7755
+  | <a href="https://www.chosun.ac.kr" target="_blank">Chosun University</a> | Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme | <a href="mailto:jalee@chosun.ac.kr" target="_blank">jalee(at)chosun.ac.kr</a> | +82-62-230-7755
 
 
 keywords: Self-Aware Computing, Configurable Computing, Approximate Computing, Fast Arithmetic Unit Design  # add your own keywords or leave empty
