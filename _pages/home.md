@@ -2,7 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: Professor, <a href='https://www3.chosun.ac.kr/eng/1887/subview.do'>Department of Computer Engineering</a>, <a href='https://chosun.kr'>Chosun University</a>.
+subtitle: Professor, <a href='https://www3.chosun.ac.kr/eng/1887/subview.do'>Department of Computer Engineering</a>, <a href='https://chosun.ac.kr'>Chosun University</a>.
 
 profile:
   align: right
