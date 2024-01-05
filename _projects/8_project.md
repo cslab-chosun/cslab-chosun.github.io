@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mohammad Hosein Gholamrezaei
-description: Computer Architecture, AI Hardware Accelerators, Embedded Systems
+description: PhD Student, University of Virginia
 img: assets/img/members/gholamrezaei.jpg
 redirect: https://mhogh.github.io/
 importance: 4
