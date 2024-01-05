@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Saeid Gorgin
-description: Computer Arithmetic, Hardware Accelerators, Machine Learning
-img: assets/img/members/gorgin.jpg
-redirect: https://scholar.google.com/citations?user=SbgT7HcAAAAJ&hl=en
+title: Hamid Sarbazi-Azad
+description: Advanced Computer Architectures, Memory and Storage Systems, Social Networks
+img: assets/img/members/azad.jpg
+redirect: https://scholar.google.com/citations?user=9OHC9AsAAAAJ&hl=en
 importance: 2
 category: Prof. For Brain Pool Program
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mohammad K Fallah
-description: High Performance Computing, Hardware/Software Co-design, Compiler and Synthesis, Data Structure and Algorithm
-img: assets/img/members/fallah.jpeg
+title: Muhammad Usman
+description: Computer Arithmetic, Hardware Acceleration For Deep Learning
+img: assets/img/members/usman.jpeg
 importance: 3
-redirect: https://scholar.google.com/citations?user=adRdD5QAAAAJ&hl=en
+redirect: https://scholar.google.com/citations?hl=en&user=38xhctQAAAAJ
 category: Postdoctoral Researchers
 ---
 

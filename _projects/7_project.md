@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mohammad Hosein Gholamrezaei
-description: Computer Architecture, AI Hardware Accelerators, Embedded Systems
-img: assets/img/members/gholamrezaei.jpg
-redirect: https://mhogh.github.io/
+title: Iraj Moghaddasi
+description: Computer Architecture, Reliable and High-performance Computing
+img: assets/img/members/moghaddasii.jpeg
+redirect: https://scholar.google.com.sg/citations?user=xWU2iw8AAAAJ&hl=en
 importance: 4
-category: Master Students
+category: Alumni
 ---
 
 Every project has a beautiful feature showcase page.

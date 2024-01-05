@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Malik Zohaib Nisar
-description: 3D Printing, Rapid Prototype, Machine Learning and Computer Arithmetic
-img: assets/img/members/zohaib.jpg
-redirect: https://sites.google.com/view/mznisar/home
+title: Mohammad Reza Najafi
+description: Computer Vision, Embedded system , Low Power Computer Vision
+img: assets/img/members/najafi.jpg
+redirect: https://mrezn.github.io
 importance: 4
-category: PhD Students
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Muhammad Sohail Ibrahim
-description: Deep Learning, Computer Vision, Image Denoising, Computer Arithmetic
-img: assets/img/members/sohail.jpg
-redirect: https://scholar.google.com.pk/citations?user=Gfp8cFsAAAAJ&hl=en
+title: Malik Zohaib Nisar
+description: 3D Printing, Rapid Prototype, Machine Learning and Computer Arithmetic
+img: assets/img/members/zohaib.jpg
+redirect: https://sites.google.com/view/mznisar/home
 importance: 4
 category: PhD Students
 ---

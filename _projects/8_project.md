@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mohammad Sina Karvandi
-description: Operating Systems, Hypervisors, System Security, Debuggers
-img: assets/img/members/karvandi.jpg
-redirect: https://rayanfam.com
+title: Mohammad Hosein Gholamrezaei
+description: Computer Architecture, AI Hardware Accelerators, Embedded Systems
+img: assets/img/members/gholamrezaei.jpg
+redirect: https://mhogh.github.io/
 importance: 4
-category: Master Students
+category: Alumni
 ---
 
 Every project has a beautiful feature showcase page.

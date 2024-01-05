@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Muhammad Akmal Shafique
-description: Reliability, Fault tolerance, Reconfigurable Architecture
-img: assets/img/members/akmal.jpeg
-redirect: https://sites.google.com/view/mashafique
+title: Mohammad K Fallah
+description: High Performance Computing, Hardware/Software Co-design, Compiler and Synthesis, Data Structure and Algorithm
+img: assets/img/members/fallah.jpeg
 importance: 3
-category: PhD Students
+redirect: https://scholar.google.com/citations?user=adRdD5QAAAAJ&hl=en
+category: Postdoctoral Researchers
 ---
 
 Every project has a beautiful feature showcase page.

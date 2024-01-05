@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Iraj Moghaddasi
-description: Computer Architecture, Reliable and High-performance Computing
-img: assets/img/members/moghaddasii.jpeg
-redirect: https://scholar.google.com.sg/citations?user=xWU2iw8AAAAJ&hl=en
-importance: 4
-category: Postdoctoral Researchers
+title: Muhammad Akmal Shafique
+description: Reliability, Fault tolerance, Reconfigurable Architecture
+img: assets/img/members/akmal.jpeg
+redirect: https://sites.google.com/view/mashafique
+importance: 3
+category: PhD Students
 ---
 
 Every project has a beautiful feature showcase page.

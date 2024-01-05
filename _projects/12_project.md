@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Saeid Gorgin
-description: Computer Arithmetic, Hardware Accelerators, Machine Learning
-img: assets/img/members/gorgin.jpg
-redirect: https://scholar.google.com/citations?user=SbgT7HcAAAAJ&hl=en
-importance: 2
-category: Prof. For Brain Pool Program
+title: Muhammad Sohail Ibrahim
+description: Deep Learning, Computer Vision, Image Denoising, Computer Arithmetic
+img: assets/img/members/sohail.jpg
+redirect: https://scholar.google.com.pk/citations?user=Gfp8cFsAAAAJ&hl=en
+importance: 4
+category: PhD Students
 ---
 
 Every project has a beautiful feature showcase page.

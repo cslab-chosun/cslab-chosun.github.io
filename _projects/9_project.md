@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Mohammad Reza Najafi
-description: Computer Vision, Embedded system , Low Power Computer Vision
-img: assets/img/members/najafi.jpg
-redirect: https://cslab-chosun.github.io/members
+title: Mohammad Sina Karvandi
+description: Operating Systems, Hypervisors, System Security, Debuggers
+img: assets/img/members/karvandi.jpg
+redirect: https://rayanfam.com
 importance: 4
 category: Master Students
 ---
