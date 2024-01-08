@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tooba Arifeen
-img: assets/img/members/unknown.png
 importance: 10
 category: Alumni
 ---
