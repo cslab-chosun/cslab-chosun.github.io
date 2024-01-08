@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SeongYong Ahn
-description: Senior Researcher at NRF (Nateonal Research Foundation of Korea)
+description: Senior Researcher at NRF (Nateonal Research Foundation)
 img: assets/img/members/seong.jpg
 redirect: https://scholar.google.com/citations?user=SNiChqkAAAAJ&hl=ko
 importance: 4

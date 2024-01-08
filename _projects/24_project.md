@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hossein Moradian
+img: assets/img/members/unknown.png
 importance: 10
 category: Alumni
 ---

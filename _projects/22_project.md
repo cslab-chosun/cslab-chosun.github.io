@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inayat Ullah
+img: assets/img/members/unknown.png
 importance: 10
 category: Alumni
 ---

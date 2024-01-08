@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sani Abba
+img: assets/img/members/unknown.png
 importance: 10
 category: Alumni
 ---
