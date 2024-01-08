@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Umar Afzaal
-description: Postdoctoral Researcher, KAIST
+description: Postdoctoral Researcher at KAIST
 img: assets/img/members/umar.jpg
 redirect: https://scholar.google.co.kr/citations?user=oLH4L4YAAAAJ&hl=en
 importance: 1
