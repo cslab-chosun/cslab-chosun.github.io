@@ -2,6 +2,7 @@
 layout: page
 title: Hossein Moradian
 img: assets/img/members/unknown.png
+redirect: https://scholar.google.co.kr/citations?user=pcOrKs0AAAAJ&hl=en
 importance: 10
 category: Alumni
 ---

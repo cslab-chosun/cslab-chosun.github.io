@@ -2,6 +2,7 @@
 layout: page
 title: Tooba Arifeen
 img: assets/img/members/unknown.png
+redirect: https://scholar.google.co.kr/citations?user=wWH5jasAAAAJ&hl=en
 importance: 10
 category: Alumni
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: Inayat Ullah
 img: assets/img/members/unknown.png
+redirect: https://scholar.google.co.kr/citations?user=atLIdn0AAAAJ&hl=en
 importance: 10
 category: Alumni
 ---
