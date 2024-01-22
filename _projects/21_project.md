@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sani Abba
-img: assets/img/members/unknown.png
+img: assets/img/members/sani.jpeg
 redirect: https://scholar.google.co.kr/citations?hl=en&user=3_LBZYIAAAAJ
 importance: 10
 category: Alumni
