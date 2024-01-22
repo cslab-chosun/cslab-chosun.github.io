@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Femi Olufemi Adeluyi
+description: National Coordinator (National Talent Export Programme, Nigeria)
 img: assets/img/members/femi.jpg
 redirect: https://www.linkedin.com/in/olufemi-adeluyi-3b128120/?originalSubdomain=ng
 importance: 10
