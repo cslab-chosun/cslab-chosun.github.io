@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abdus Sami Hassan
-img: assets/img/members/unknown.png
+img: assets/img/members/sami.jpg
 redirect: https://scholar.google.co.kr/citations?user=C_sfH50AAAAJ&hl=en
 importance: 10
 category: Alumni
