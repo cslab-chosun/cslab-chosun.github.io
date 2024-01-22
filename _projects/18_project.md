@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Femi Olufemi Adeluyi
-img: assets/img/members/unknown.png
+img: assets/img/members/femi.jpg
 redirect: https://www.linkedin.com/in/olufemi-adeluyi-3b128120/?originalSubdomain=ng
 importance: 10
 category: Alumni
