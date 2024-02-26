@@ -3,7 +3,7 @@ layout: page
 title: Ghassem Jaberipur
 description: Computer Arithmetic
 img: assets/img/members/jaberipour.png
-redirect: https://scholar.google.com/citations?user=q9EkcAQAAAAJ&hl=en
+redirect: https://leejeonga.com/assets/pdf/DrJaberipur_CV.pdf
 importance: 1
 category: Prof. For Brain Pool Program
 ---
